@@ -10,7 +10,7 @@
 </div>
 
 ---
-
+<div align="center" >
 ### 🧾 Liste des produits
 <img width="938" height="682" alt="image" src="https://github.com/user-attachments/assets/88eec8cd-d304-493e-9c07-d266d1fa41ad" />
 
@@ -18,7 +18,7 @@
 
 ### 🔎 Détails d'un produit
 <img width="995" height="467" alt="image" src="https://github.com/user-attachments/assets/b49b146f-3ae3-4349-9995-bea90a2d73b0" />
-
+</div>
 ---
 
 ## ✨ Fonctionnalités
