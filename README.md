@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center font-weight: 900; " >
 
 # 🛍️ E-Shop
 
@@ -11,19 +11,16 @@
 
 ---
 
-### 🏠 Page d'accueil
-<p align="center">
-  <img src="./screenshots/accueil.png" alt="Page d'accueil E-Shop" width="100%">
-</p>
-
 ### 🧾 Liste des produits
 <p align="center">
-  <img src="./screenshots/produits.png" alt="Liste des produits" width="100%">
+  <img src="<img width="938" height="682" alt="image" src="https://github.com/user-attachments/assets/9774020c-0915-4f64-9a6c-194fad254afb" />
+" alt="Liste des produits" width="100%">
 </p>
 
 ### 🔎 Détails d'un produit
 <p align="center">
-  <img src="./screenshots/details.png" alt="Détails d'un produit" width="100%">
+  <img src="<img width="995" height="467" alt="image" src="https://github.com/user-attachments/assets/21ea5048-e8fc-40c2-92d4-a719b54c6a53" />
+" alt="Détails d'un produit" width="100%">
 </p>
 
 ---
