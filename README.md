@@ -95,7 +95,7 @@ GET https://fakestoreapi.com/products/:id    # un produit par ID
  **El hyani Safa**
 Étudiante en Développement Digital option **Web Full-Stack** (OFPPT)
 
-[![GitHub](https://img.shields.io/badge/GitHub-TON--USERNAME-181717?logo=github&style=flat-square)](https://github.com/TON-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-TON--USERNAME-181717?logo=github&style=flat-square)](https://github.com/ElhyaniSafa)
 
 ---
 
