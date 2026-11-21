@@ -107,3 +107,39 @@ small {
   text-align: center;
   color: #d32f2f;
 }
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 24px;
+  background-color: #1a1a2e;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+    url("https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1600");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-content {
+  max-width: 650px;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: clamp(3rem, 10vw, 6rem);
+  margin: 0 0 16px;
+  color: white;
+}
+
+.hero-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 28px;
+}
+
+.hero-btn {
+  padding: 14px 28px;
+  font-size: 1rem;
+}

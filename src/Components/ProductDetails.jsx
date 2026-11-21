@@ -17,7 +17,7 @@ export default function ProductDetails() {
 
   return (
     <div className="container">
-      <Link to="/" className="back">← Retour aux produits</Link>
+      <Link to="/products" className="back">← Retour aux produits</Link>
 
       <div className="details">
         <img src={product.image} alt={product.title} />
@@ -26,7 +26,7 @@ export default function ProductDetails() {
           <small>{product.category}</small>
           <h2>{product.title}</h2>
           <p className="rating">
-       {product.rating.rate} ({product.rating.count} avis)
+            {product.rating.rate} ({product.rating.count} avis)
           </p>
           <p className="price">{product.price} $</p>
           <h4>Description</h4>
