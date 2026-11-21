@@ -1,4 +1,4 @@
-<div align="center font-weight: 900; " >
+<div align="center" font-weight: 900; >
 
 # 🛍️ E-Shop
 
@@ -12,16 +12,12 @@
 ---
 
 ### 🧾 Liste des produits
-<p align="center">
-  <img src="<img width="938" height="682" alt="image" src="https://github.com/user-attachments/assets/9774020c-0915-4f64-9a6c-194fad254afb" />
-" alt="Liste des produits" width="100%">
-</p>
+<img width="938" height="682" alt="image" src="https://github.com/user-attachments/assets/88eec8cd-d304-493e-9c07-d266d1fa41ad" />
+
+
 
 ### 🔎 Détails d'un produit
-<p align="center">
-  <img src="<img width="995" height="467" alt="image" src="https://github.com/user-attachments/assets/21ea5048-e8fc-40c2-92d4-a719b54c6a53" />
-" alt="Détails d'un produit" width="100%">
-</p>
+<img width="995" height="467" alt="image" src="https://github.com/user-attachments/assets/b49b146f-3ae3-4349-9995-bea90a2d73b0" />
 
 ---
 
